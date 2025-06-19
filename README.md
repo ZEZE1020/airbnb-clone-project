@@ -1,6 +1,6 @@
 # StayBackend: The Airbnb Clone Project Blueprint
 
-Welcome to the **Airbnb Clone Project**—a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. This project focuses on backend systems, database design, API development, and application security, enabling learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
+Welcome to the **Airbnb Clone Project** a git  real-world application designed to simulate the development of a robust booking platform like Airbnb. This project focuses on backend systems, database design, API development, and application security, enabling learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
 ---
 
